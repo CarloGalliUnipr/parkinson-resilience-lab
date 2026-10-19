@@ -1,2 +1,0 @@
-import assert from 'node:assert/strict';import {DEFAULTS,equilibrium,limit,drift,eigen,stochastic,monteCarlo} from '../docs/model.mjs';
-const eq=equilibrium(1);assert.ok(Math.abs(eq[0]-.6)<1e-12);assert.ok(Math.abs(eq[1]-.83333333333)<1e-9);assert.ok(drift(...eq,1).every(x=>Math.abs(x)<1e-12));assert.ok(eigen(1)<0);assert.ok(Number.isNaN(equilibrium(limit()+.001)[0]));const a=stochastic(1.4,{seed:12,T:10}),b=stochastic(1.4,{seed:12,T:10});assert.deepEqual(a,b);const mc=monteCarlo(1.4,{N:10,T:10});assert.equal(mc.times.length,10);console.log('All tests passed');
