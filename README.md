@@ -1,6 +1,6 @@
 # Parkinson Resilience Lab — interactive companion (version 0.2 · five experiments)
 
-Interactive teaching companion to *Resilience Loss and Noise-Driven Escape in a Minimal Stochastic Model of Dopaminergic Neuron Vulnerability*. 
+Interactive teaching companion to *Resilience Loss and Noise-Driven Threshold Crossing in a Minimal Stochastic Model of Dopamine Neuron Vulnerability*. 
 
 ## Deploy on GitHub Pages
 
