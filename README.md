@@ -1,6 +1,6 @@
 # Parkinson Resilience Lab — interactive companion (version 0.2 · five experiments)
 
-Interactive, dark-blue/black teaching companion to *Resilience Loss and Noise-Driven Escape in a Minimal Stochastic Model of Dopaminergic Neuron Vulnerability*. Inspired by the structure of the Periodontal Dynamics Lab reference prototype. The fifth experiment is a rotatable, dependency-free Canvas 3D recovery-time landscape, with shared-axis side-by-side comparisons, operational threshold overlays, stochastic trajectories on the state-space base plane, and CSV export.
+Interactive teaching companion to *Resilience Loss and Noise-Driven Escape in a Minimal Stochastic Model of Dopaminergic Neuron Vulnerability*. 
 
 ## Deploy on GitHub Pages
 
